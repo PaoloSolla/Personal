@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Personal: Paolo Solla </title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://paolosolla.github.io/Personal/feed/" rel="self" type="application/rss+xml" />
+	<link>https://paolosolla.github.io/Personal/</link>
 	<description>works and reflections</description>
 	<lastBuildDate>Tue, 19 Dec 2023 20:14:01 +0000</lastBuildDate>
 	<language>it-IT</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>Chi inizia bene&#8230;</title>
-		<link>/2023/12/19/ciao-mondo/</link>
-					<comments>/2023/12/19/ciao-mondo/#comments</comments>
+		<link>https://paolosolla.github.io/Personal/2023/12/19/ciao-mondo/</link>
+					<comments>https://paolosolla.github.io/Personal/2023/12/19/ciao-mondo/#comments</comments>
 		
 		<dc:creator><![CDATA[P.Soul]]></dc:creator>
 		<pubDate>Tue, 19 Dec 2023 14:44:41 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">https://paolosolla.github.io/Personal/?p=1</guid>
 
 					<description><![CDATA[Questo piccolo portale (tirato su in pochi giorni di dicembre) vuole essere oltre che un riferimento per quanto riguarda i miei contatti personali, lavori e quant&#8217;altro (vedi Design with Scrum), uno spazio in cui raccogliere riflessioni ed esercitare la scrittura. Una forma di meditazione che ho imparato a conoscere durante questo ultimo anno, nella quale [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p>Questo piccolo portale (tirato su in pochi giorni di dicembre) vuole essere oltre che un riferimento per quanto riguarda i miei contatti personali, lavori e quant&#8217;altro (vedi Design with Scrum), uno spazio in cui raccogliere riflessioni ed esercitare la scrittura. Una forma di meditazione che ho imparato a conoscere durante questo ultimo anno, nella quale ho fatto pace con un vecchio amico/nemico (il mio precedente percorso universitario in informatica) e chiuso -si fa per dire- un altro, quello ben più pacifico di disegno industriale. </p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2023/12/19/ciao-mondo/feed/</wfw:commentRss>
+					<wfw:commentRss>https://paolosolla.github.io/Personal/2023/12/19/ciao-mondo/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

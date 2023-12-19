@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Commenti a: Chi inizia bene&#8230;	</title>
-	<atom:link href="/2023/12/19/ciao-mondo/feed/" rel="self" type="application/rss+xml" />
-	<link>/2023/12/19/ciao-mondo/</link>
+	<atom:link href="https://paolosolla.github.io/Personal/2023/12/19/ciao-mondo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://paolosolla.github.io/Personal/2023/12/19/ciao-mondo/</link>
 	<description>works and reflections</description>
 	<lastBuildDate>Tue, 19 Dec 2023 20:14:01 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Di: Un commentatore di WordPress		</title>
-		<link>/2023/12/19/ciao-mondo/#comment-1</link>
+		<link>https://paolosolla.github.io/Personal/2023/12/19/ciao-mondo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un commentatore di WordPress]]></dc:creator>
 		<pubDate>Tue, 19 Dec 2023 14:44:41 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://paolosolla.github.io/Personal/?p=1#comment-1</guid>
 
 					<description><![CDATA[Ciao, questo è un commento.
 Per iniziare a moderare, modificare ed eliminare commenti, vai alla schermata dei commenti nella bacheca.
