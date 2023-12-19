@@ -11,8 +11,8 @@
 	<title>Personal: Paolo Solla </title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>A page of contacts and reflection</description>
-	<lastBuildDate>Tue, 19 Dec 2023 14:44:41 +0000</lastBuildDate>
+	<description>works and reflections</description>
+	<lastBuildDate>Tue, 19 Dec 2023 20:14:01 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,18 +20,18 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
-		<title>Ciao mondo!</title>
+		<title>Chi inizia bene&#8230;</title>
 		<link>/2023/12/19/ciao-mondo/</link>
 					<comments>/2023/12/19/ciao-mondo/#comments</comments>
 		
 		<dc:creator><![CDATA[P.Soul]]></dc:creator>
 		<pubDate>Tue, 19 Dec 2023 14:44:41 +0000</pubDate>
-				<category><![CDATA[Senza categoria]]></category>
+				<category><![CDATA[Blog]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
-					<description><![CDATA[Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o eliminalo e quindi inizia a scrivere!]]></description>
+					<description><![CDATA[Questo piccolo portale (tirato su in pochi giorni di dicembre) vuole essere oltre che un riferimento per quanto riguarda i miei contatti personali, lavori e quant&#8217;altro (vedi Design with Scrum), uno spazio in cui raccogliere riflessioni ed esercitare la scrittura. Una forma di meditazione che ho imparato a conoscere durante questo ultimo anno, nella quale [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>Ti diamo il benvenuto in WordPress. Questo è il tuo primo articolo. Modificalo o eliminalo e quindi inizia a scrivere!</p>
+<p>Questo piccolo portale (tirato su in pochi giorni di dicembre) vuole essere oltre che un riferimento per quanto riguarda i miei contatti personali, lavori e quant&#8217;altro (vedi Design with Scrum), uno spazio in cui raccogliere riflessioni ed esercitare la scrittura. Una forma di meditazione che ho imparato a conoscere durante questo ultimo anno, nella quale ho fatto pace con un vecchio amico/nemico (il mio precedente percorso universitario in informatica) e chiuso -si fa per dire- un altro, quello ben più pacifico di disegno industriale. </p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2023/12/19/ciao-mondo/feed/</wfw:commentRss>

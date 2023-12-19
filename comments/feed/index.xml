@@ -10,8 +10,8 @@
 	Commenti per Personal: Paolo Solla 	</title>
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>A page of contacts and reflection</description>
-	<lastBuildDate>Tue, 19 Dec 2023 14:44:41 +0000</lastBuildDate>
+	<description>works and reflections</description>
+	<lastBuildDate>Tue, 19 Dec 2023 20:14:01 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>
-		Commenti su Ciao mondo! di Un commentatore di WordPress		</title>
+		Commenti su Chi inizia bene&#8230; di Un commentatore di WordPress		</title>
 		<link>/2023/12/19/ciao-mondo/#comment-1</link>
 
 		<dc:creator><![CDATA[Un commentatore di WordPress]]></dc:creator>
